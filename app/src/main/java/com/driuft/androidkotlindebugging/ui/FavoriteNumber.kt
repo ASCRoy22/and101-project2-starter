@@ -13,7 +13,7 @@ class FavoriteNumber : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_favorite_number)
 
-        val number: Int = null!!
+        val number: Int = 4 //or i can do Int?=null so that it knows null is possible and wont get null pointer exception
         favoriteNumber.text = "$number"
     }
 }
