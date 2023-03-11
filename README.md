@@ -2,9 +2,9 @@
 
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Your Name Here**
+Submitted by: **Roy**
 
-Time spent: **X** hours spent in total
+Time spent: **.2** hours spent in total
 
 ## Summary
 
@@ -52,7 +52,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2022** **Roy Chen**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
